@@ -2,7 +2,7 @@
 Service discovery and registry server built with Spring Cloud Netflix Eureka for dynamic service registration across the JDM Expo platform.<br>
 * **Student Name:** A.G.Asan Indusara
 * **Student Number:** 241722063
-* **GCP Project ID:** 
+* **GCP Project ID:** project-83f3b203-b60d-481d-89d <br>
 ## Technology Stack
 * **Language:** Java 25
 * **Framework:** Spring Boot
